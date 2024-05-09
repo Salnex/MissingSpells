@@ -1,6 +1,6 @@
 addon.name      = 'MissingSpells';
 addon.author    = 'Salnexia';
-addon.version   = '0.1';
+addon.version   = '0.2';
 addon.desc      = 'Spells that be missing';
 
 require "common";
