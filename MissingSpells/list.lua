@@ -1,4 +1,3 @@
-
 require "common";
 
 local spellList = {
