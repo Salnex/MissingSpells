@@ -1,23 +1,6 @@
 
 require "common";
 
-local schools = {
-"divine ",
-"healing ",
-"enhancing ",
-"enfeebling ",
-"elemental ",
-"dark ",
-"summoning ",
-"ninjutsu ",
-"singing ",
-"string ",
-"wind ",
-"blue ",
-"geomancy "
-}
-
-
 local spellList = {
 stable = T{},
 listLength = 0
