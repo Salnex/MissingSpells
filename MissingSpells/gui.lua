@@ -1,23 +1,5 @@
-
 list = require('list')
 local imgui = require('imgui');
-
-local gui ={
-	divine		= "divine",
-	healing		= "healing",
-	enhancing	= "enhancing",
-	enfeebling	= "enfeebling",
-	elemental	= "elemental",
-	dark		= "dark",
-	summoning	= "summoning",
-	ninjutsu	= "ninjutsu",
-	singing		= "singing",
-	vstring		= "vstring",
-	wind		= "wind",
-	blue		= "blue",
-	geomancy	= "geomancy",
-	isVisible 	= true
-}
 
 function gui.render()
 	if(not gui.isVisible) then
